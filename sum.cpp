@@ -2,7 +2,8 @@
 using namespace std;
 
 int main(){
-    int a=2,b=3;
-    cout<<a;
-    cout<<b;
+    int a=2,b=4;
+    cout<<"The Sum is :";
+    cout<<(a+b);
+
 }
